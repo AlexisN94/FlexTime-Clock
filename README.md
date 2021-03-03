@@ -6,7 +6,16 @@
 
 This clockface allows you to set your usual day-start and day-end times in the settings, in order to have a visual representation of how far along you are in *your own* day. 
 
-Say, you usually wake up at 22h30 and go to bed at 06h00. That's your day time and 22h30. Conversely, from 06h00 to 22h30 will be your night-time.
+Say, you usually wake up at 22h30 and go to bed at 06h00. That's your day-time and it will be displayed with a gray ring and red hand. 
+
+Conversely, from 06h00 to 22h30 will be your night-time and it will be displayed with a purple ring and hand.
+
+The clock hand will hit the 12 o'clock position at 22h30 and again at 06h00.
+
+During the day-time (22h30 - 06h00), the hand will hit the 17 o'clock position when it's actually 02h15. At this point, half of your the day has passed.
+During the night-time, the hand will hit the 17 o'clock position when it's actually 14h15. At this point, half of your the night has passed.
+
+In the settings, you can hide any of the elements that you don't like, except for the rings.
 
 ### Screenshots
 
@@ -22,10 +31,5 @@ Say, you usually wake up at 22h30 and go to bed at 06h00. That's your day time a
 | ------------- | :---: | :-------------:| :-----:|
 | **Top**      | Day/night-start time | Current time and date | Day/night-end time | 
 |**Bottom**     | -      | Remaining time until day/night ends | -  | 
-
-
-When you enter the night-time, the ring becomes purple. During the day-time, it becomes red. I'll make the colors customizable in the future.
-
-In the settings, you can hide any of the elements that you don't like, except for the rings.
 
 Tip: If you like the interface but want to use it as a 'regular' clock, just set the day-start time for 12h00 and day-end time for 00h00. AM will be purple, PM will be red. This will be the initial configuration.
