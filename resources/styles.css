@@ -1,0 +1,73 @@
+.dayPercentage {
+  font-size: 40;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 50%+15;
+  fill: #bfbfbf;
+}
+
+.nightPercentage {
+  font-size: 35;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 50%+13;
+  fill: #bfbfbf;
+}
+
+#digitalClock {
+  font-size: 32;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 8%;
+  fill: #bfbfbf;
+}
+
+#date {
+  font-size: 26;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 18%;
+  fill: #bfbfbf;
+}
+
+#remainingTime {
+  font-size: 28;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 98%;
+  fill: #bfbfbf;
+}
+
+#dayStart {
+  display:none;
+  font-size: 25;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 12%;
+  y: 8%;
+  fill: #ababab;
+}
+
+#dayEnd {
+  display:none;
+  font-size: 25;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 85%;
+  y: 8%;
+  fill: #ababab;
+}
+
+
