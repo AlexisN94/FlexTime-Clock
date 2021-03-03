@@ -4,7 +4,7 @@
 
 [Available on the Fitbit Gallery](https://gallery.fitbit.com/details/3fd9124d-8cff-4e9d-bd8f-e42fab1ebfd0)
 
-This clockface allows you to set your usual day-start and day-end times in the settings, in order to have a visual representation of how far along you are in *your own* day. 
+This experimental clockface allows you to set your usual day-start and day-end times in the settings, in order to have a visual representation of how far along you are in *your own* day. 
 
 Say, you usually wake up at 22h30 and go to bed at 06h00. That's your day-time and it will be displayed with a gray ring and red hand. 
 
