@@ -13,7 +13,8 @@ Conversely, from 06h00 to 22h30 will be your night-time and it will be displayed
 The clock hand will hit the 12 o'clock position at 22h30 and again at 06h00.
 
 During the day-time (22h30 - 06h00), the hand will hit the 17 o'clock position when it's actually 02h15. At this point, half of your the day has passed.
-During the night-time, the hand will hit the 17 o'clock position when it's actually 14h15. At this point, half of your the night has passed.
+
+During the night-time (06h00 - 22h30), the hand will hit the 17 o'clock position when it's actually 14h15. At this point, half of your the night has passed.
 
 In the settings, you can hide any of the elements that you don't like, except for the rings.
 
