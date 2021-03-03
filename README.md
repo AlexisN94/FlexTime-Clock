@@ -18,7 +18,7 @@ During the night-time (06h00 - 22h30), the hand will hit the 17 o'clock position
 
 In the settings, you can hide any of the elements that you don't like, except for the rings.
 
-Tip: If you like the interface but want to use it as a 'regular' clock, just set the day-start time for 12h00 and day-end time for 00h00. AM will be purple, PM will be red. This will be the initial configuration.
+___Tip__: If you like the interface but want to use it as a 'regular' clock, just set the day-start time for 12h00 and day-end time for 00h00. AM will be purple, PM will be red. This will be the initial configuration._
 
 ### Screenshots
 
