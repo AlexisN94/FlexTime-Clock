@@ -6,11 +6,7 @@
 
 This experimental clockface allows you to set your usual day-start and day-end times in the settings, in order to have a visual representation of how far along you are in *your own* day. 
 
-Say, you usually wake up at 22h30 and go to bed at 06h00. That's your day-time and it will be displayed with a gray ring and red hand. 
-
-Conversely, from 06h00 to 22h30 will be your night-time and it will be displayed with a purple ring and hand.
-
-The clock hand will hit the 12 o'clock position at 22h30 and again at 06h00.
+Say, you usually wake up at 22h30 and go to bed at 06h00. That's your day-time and it will be displayed with a gray ring and red hand. Conversely, from 06h00 to 22h30 will be your night-time and it will be displayed with a purple ring and hand. The clock hand will hit the 12 o'clock position at 22h30 and again at 06h00.
 
 During the day-time (22h30 - 06h00), the hand will hit the 17 o'clock position when it's actually 02h15. At this point, half of the day has passed.
 
