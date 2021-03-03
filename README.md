@@ -31,4 +31,5 @@ ___Tip__: If you like the interface but want to use it as a 'regular' clock, jus
 |     |   Left  | Center           | Right  |
 | ------------- | :---: | :-------------:| :-----:|
 | **Top**      | Day/night-start time | Current time and date | Day/night-end time | 
+|**Center**     | -      | Percentage of ellapsed day/night | -  | 
 |**Bottom**     | -      | Remaining time until day/night ends | -  | 
