@@ -4,7 +4,7 @@
 
 [Available on the Fitbit Gallery](https://gallery.fitbit.com/details/3fd9124d-8cff-4e9d-bd8f-e42fab1ebfd0)
 
-This clockface allows you to set your usual day-start and day-end times in the settings, in order to have a visual representation of how far along you are in your own day.
+This clockface allows you to set your usual day-start and day-end times in the settings, in order to have a visual representation of how far along you are in your own, personalized day.
 
 ### Screenshots
 
