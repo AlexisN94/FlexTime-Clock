@@ -12,7 +12,7 @@ This clockface allows you to set your usual day-start and day-end times in the s
 ![Alt text](https://gallery-assets.fitbit.com/public/NM0kDYZtCn4_BLK_AL7tBnBhC2OYNXotO2BlAIJrBa8aBI4XC58aNF/NISXBIBnNY7hB54YCXooDIRmAL4WCq3hO5FsOY.nD5O_BLCa@1x.png)
 ![Alt text](https://gallery-assets.fitbit.com/public/NM0kDYZtCn4_BLK_AL7tBnBhC2OYNXotO2BlAIJrBa8aBI4XC58aNF/Cn_XCnVlO2NhBqBlOXooDISZAL3sNLFhNIBmBq7pOIFmD5KX@1x.png)
 
-UI elements explanation:
+### UI elements explanation:
 
 |     |   Left  | Center           | Right  |
 | ------------- | :---: | :-------------:| :-----:|
