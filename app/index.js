@@ -39,12 +39,12 @@ const MONTH_NAMES = ["January", "February", "March", "April", "May", "June",
   "July", "August", "September", "October", "November", "December"];
 
 
-function init(_dayStartHours, _dayStartMins, _dayEndHours, k) {
-  dayStartHour = parseInt(_dayStartHours);
-  dayStartMins = parseInt(y);
+function init(_dayStartHour, _dayStartMins, _dayEndHour, _dayEndMins) {
+  dayStartHour = parseInt(_dayStartHour);
+  dayStartMins = parseInt(_dayStartMins);
 
-  dayEndHour = parseInt(z);
-  dayEndMins = parseInt(k);
+  dayEndHour = parseInt(_dayEndHour);
+  dayEndMins = parseInt(_dayEndMins);
 
   dayEndTimeInMinsSinceMidnight = dayEndHour * 60 + dayEndMins;
 
