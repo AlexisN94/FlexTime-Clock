@@ -1,6 +1,6 @@
 # FlexTime Clock (Fitbit)
 
-![Alt text](https://uc4c33ea0a58736a19d9b190ca3c.previews.dropboxusercontent.com/p/thumb/ABRutkpg5bPNaqDQcBKiqkU7lQyhAm375ciW7BUw1KWHzFIopDe2SES0WTnCK25GZ7hS1IInIdppmqSvWpsVRpwt3UnM1YeBkltD1aCCzbPwRs_vl2SjLRY3d_MszOf6ATkvJHlMPSR_f-u61pMS4kn8n4coLk4j1QE3kL_UDc9VlKmrQrNO6f_g4yLfKuAG3IebiW1audW_RMRbzw2Xo2ZHW0T6hhWe-18zKBdpHFwpJAjBExtd_FRAf3bad-YygIn2XyOGmBwc-TasuvjwaXOxU5Y9r_mXyShedQRWTq9M80cIZ6BiCN31PfpujEPdK1R_i3BF2aNkxVGXFl_XIiYtpnY42paIshiihNQP_AnMDg1lrWFzm8p1zZ6qLSRtD9i72Cgh4hJVLazakAe8bEVd/p.png?fv_content=true&size_mode=5)
+![Alt text](https://www.dropbox.com/s/pw8b512j30cp0xx/versa_2.b1d3a41e.png?dl=1)
 
 [Available on the Fitbit Gallery](https://gallery.fitbit.com/details/3fd9124d-8cff-4e9d-bd8f-e42fab1ebfd0)
 
