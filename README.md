@@ -10,7 +10,7 @@
 This experimental clockface allows you to set custom day-start and day-end times in the settings, in order to have a visual representation of how far along you are in your own day, or night.
 
 Say, you usually wake up at 22h30 and go to bed at 06h00. That's your day-time. Conversely, from 06h01 to 22h29 will be your night-time. 
-For night-time, the dial and hand is purple. For day-time, the dial is gray the hand is red.
+For night-time, the dial and hand is purple. For day-time, the dial is gray, the hand is red.
 
 **The hand doesn't tell the time** like it would in an analog-style clock; it tells percentage. When it hits the 6 o'clock position, it means that 50% of your day or night has passed, not that it's 18:00 or 06:00 (although it may very well be).
 
