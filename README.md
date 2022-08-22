@@ -25,8 +25,8 @@ ___Note__: If you like the interface but want to use it as a 'regular' analog-st
 |     |   Left  | Center           | Right  |
 | ------------- | :---: | :-------------:| :-----:|
 | **Top**      | Section¹ start | Current time and date | Section¹ end | 
-|**Center**     | -      | Section¹ progress in percentage | -  | 
-|**Bottom**     | -      | Remaining time until the section¹ ends | -  | 
+|**Center**     | -      | Section¹ progress | -  | 
+|**Bottom**     | -      | Time until the section¹ ends | -  | 
 
 ¹ Section - Day time, or night time.
 
