@@ -7,7 +7,7 @@
 
 ## Description
 
-This experimental clockface allows you to set custom day-start and day-end times in the settings, in order to have a visual representation of how far along you are in *your* day.
+This experimental clockface allows you to set custom day-start and day-end times in the settings, in order to have a visual representation of how far along you are in your day.
 
 Say, you usually wake up at 22h30 and go to bed at 06h00. That's your day-time. Conversely, from 06h01 to 22h29 will be your night-time. 
 For night-time, the dial and hand is purple. For day-time, the dial is gray the hand is red.
