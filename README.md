@@ -1,6 +1,6 @@
 # FlexTime Clock (Fitbit)
 
-![Alt text](https://www.dropbox.com/s/pw8b512j30cp0xx/versa_2.b1d3a41e.png?dl=1)
+![Alt text](https://www.dropbox.com/s/pw8b512j30cp0xx/versa_2.b1d3a41e.png?raw=1)
 
 [Available on the Fitbit Gallery](https://gallery.fitbit.com/details/3fd9124d-8cff-4e9d-bd8f-e42fab1ebfd0)
 
