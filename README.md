@@ -7,16 +7,18 @@
 
 ## Description
 
-This experimental clockface allows you to set custom day-start and day-end times in the settings, in order to have a visual representation of how far along you are in *your* day. 
+This experimental clockface allows you to set custom day-start and day-end times in the settings, in order to have a visual representation of how far along you are in *your* day.
 
 Say, you usually wake up at 22h30 and go to bed at 06h00. That's your day-time. Conversely, from 06h01 to 22h29 will be your night-time. 
-Night-time is displayed in purple. Day-time is displayed in gray and red.
+For night-time, the dial will be purple, with a purple hand. For day-time the dial will be gray with a red hand.
 
-The clock hand will hit the 12 o'clock position at 22h30 and again at 06h00, marking the transition from night to day, or from day to night. When the hand hits the 6 o'clock position, naturally it doesn't mean that it is 6 o'clock. It just means that 50% of your day or night has passed.
+The hand doesn't tell the time like it would in an analog-style clock; it tells percentage. When it hits the 6 o'clock position, it means that 50% of your day has passed, not that it's 18:00 (although it may very well be).
 
-In the settings, you can hide any of the elements that you don't like, except for the rings.
+To check the actual time, read the digital clock.
 
-___Note__: If you like the interface but want to use it as a 'regular' clock, just set the day-start time for 12h00 and day-end time for 00h00. AM will be purple, PM will be red. This will be the initial configuration._
+In the settings, you can hide any of the elements that you don't like, except for the dial (ring).
+
+___Note__: If you like the interface but want to use it as a 'regular' analog-style clock, just set the day-start time for 12h00 and day-end time for 00h00. AM will be purple, PM will be red. This will be the initial configuration._
 
 ### Screenshots
 
@@ -31,5 +33,5 @@ ___Note__: If you like the interface but want to use it as a 'regular' clock, ju
 |     |   Left  | Center           | Right  |
 | ------------- | :---: | :-------------:| :-----:|
 | **Top**      | Custom day/night-start time | Current time and date | Custom day/night-end time | 
-|**Center**     | -      | Percentage of ellapsed day/night | -  | 
+|**Center**     | -      | Percentage of elapsed day/night | -  | 
 |**Bottom**     | -      | Remaining time until day/night ends | -  | 
