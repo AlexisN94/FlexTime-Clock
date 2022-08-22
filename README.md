@@ -13,9 +13,9 @@ Say, you usually wake up at 22h30 and go to bed at 06h00. That's your day-time. 
 
 The clock hand will hit the 12 o'clock position at 22h30 and again at 06h00.
 
-During the day-time (22h30 - 06h00), the hand will hit the 6 o'clock position when it's actually 02h15. At this point, half of _your day_ has passed.
+During the day-time (22h30 - 06h00), the hand will hit the 6 o'clock position when it's actually 02h15. At this point, half of your day has passed.
 
-During the night-time (06h01 - 22h29), the hand will hit the 6 o'clock position when it's actually 14h15. At this point, half of _your night_ has passed.
+During the night-time (06h01 - 22h29), the hand will hit the 6 o'clock position when it's actually 14h15. At this point, half of your night has passed.
 
 In the settings, you can hide any of the elements that you don't like, except for the rings.
 
